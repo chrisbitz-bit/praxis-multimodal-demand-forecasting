@@ -5,7 +5,7 @@ Joseph Lebbie, School of Engineering and Applied Science, The George
 Washington University (2026).
 
 ## Contents
-- `<notebook-name>.ipynb`: data preparation, multimodal ablation (H1),
+- `praxis_multimodal_demand_experimentation_tft`: data preparation, multimodal ablation (H1),
   hierarchical transfer learning (H2), conformal calibration (H3),
   benchmarks, and interpretability analysis.
 
